@@ -24,7 +24,7 @@ Launches the test runner in the interactive watch mode.\
 
 ### `yarn build`
 
-Builds the app for production using babel to the `dist` folder.\
+Builds the app for production using babel to the `dist` folder.
 
 ### `yarn start`
 
